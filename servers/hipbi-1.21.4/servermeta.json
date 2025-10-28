@@ -2,7 +2,7 @@
   "$schema": "file:///D:/Coding/Projects/mchlauncher/Distro/hipbi/schemas/ServerMetaSchema.schema.json",
   "meta": {
     "version": "1.0.0",
-    "name": "마린이",
+    "name": "딥플러스",
     "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
     "icon": "https://github.com/mchdistro/hipbi/raw/main/server-icon.png",
     "address": "mc.gotiger.dev:20005",

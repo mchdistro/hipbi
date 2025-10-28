@@ -9,7 +9,7 @@
   "servers": [
     {
       "id": "hipbi-1.21.4",
-      "name": "마린이",
+      "name": "딥플러스",
       "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/hipbi/raw/main/server-icon.png",
       "version": "1.0.0",
@@ -184,6 +184,17 @@
             "size": 145,
             "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/options.txt",
             "path": "options.txt"
+          }
+        },
+        {
+          "id": "servers.dat",
+          "name": "servers.dat",
+          "type": "File",
+          "artifact": {
+            "size": 72,
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/servers.dat",
+            "MD5": "66e690bef48b414d2c4382d1714cd0da",
+            "path": "servers.dat"
           }
         },
         {
