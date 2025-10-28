@@ -181,7 +181,7 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 145,
+            "size": 171,
             "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/options.txt",
             "path": "options.txt"
           }
