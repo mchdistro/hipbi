@@ -8,7 +8,7 @@
   },
   "servers": [
     {
-      "id": "hipbi-1.21.4",
+      "id": "dipplus-1.21.4",
       "name": "딥플러스",
       "description": "Minecraft 1.21.4 (Fabric v0.17.3)",
       "icon": "https://github.com/mchdistro/hipbi/raw/main/server-icon.png",
@@ -121,7 +121,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2149128,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/fabric-api-0.119.4+1.21.4.jar",
             "MD5": "128a8d042180e7c92567342e21a21a6d"
           }
         },
@@ -131,7 +131,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 91503,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-1.0.0.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-1.0.0.jar",
             "MD5": "8dd031d38859511f77fd06c1532f905f"
           }
         },
@@ -141,8 +141,18 @@
           "type": "FabricMod",
           "artifact": {
             "size": 2682702,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/iris-fabric-1.8.8+mc1.21.4.jar",
             "MD5": "59d373e4874efbcb8fb426bdefa588d9"
+          }
+        },
+        {
+          "id": "journeymap:journeymap:1.21.4-6.0.0-beta.47@jar",
+          "name": "Journeymap",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 3514383,
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/journeymap-fabric-1.21.4-6.0.0-beta.47.jar",
+            "MD5": "8b092f8cca0a96d80eb8eeea24b5ebfd"
           }
         },
         {
@@ -151,7 +161,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 595318,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.3.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/koreanpatch-fabric-1.9.0+mc1.21.3.jar",
             "MD5": "f06ab7fa4807353a7b725f4ad5dc86ba"
           }
         },
@@ -161,7 +171,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 12217819,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/plasmovoice-fabric-1.21.4-2.1.6.jar",
             "MD5": "697c58299b7addd59f99ff5a1f873002"
           }
         },
@@ -171,7 +181,7 @@
           "type": "FabricMod",
           "artifact": {
             "size": 1306799,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/fabricmods/required/sodium-fabric-0.6.13+mc1.21.4.jar",
             "MD5": "28922a78d1876ee062e3265f10abcc46"
           }
         },
@@ -181,7 +191,7 @@
           "type": "File",
           "artifact": {
             "size": 312,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/config/iris.properties",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/files/config/iris.properties",
             "MD5": "9a115e985b98de0b5f666bc4c99f6693",
             "path": "config/iris.properties"
           }
@@ -191,8 +201,8 @@
           "name": "options.txt",
           "type": "File",
           "artifact": {
-            "size": 171,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/options.txt",
+            "size": 208,
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/files/options.txt",
             "path": "options.txt"
           }
         },
@@ -202,7 +212,7 @@
           "type": "File",
           "artifact": {
             "size": 72,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/servers.dat",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/files/servers.dat",
             "MD5": "66e690bef48b414d2c4382d1714cd0da",
             "path": "servers.dat"
           }
@@ -213,7 +223,7 @@
           "type": "File",
           "artifact": {
             "size": 500699,
-            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/files/shaderpacks/ComplementaryUnbound_r5.6.1.zip",
             "MD5": "3f83f81df2ad4608d830017425b45bac",
             "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip"
           }
