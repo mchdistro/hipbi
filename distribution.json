@@ -126,6 +126,16 @@
           }
         },
         {
+          "id": "com.gitter:gtnick:1.0.0@jar",
+          "name": "GTNick",
+          "type": "FabricMod",
+          "artifact": {
+            "size": 91503,
+            "url": "https://github.com/mchdistro/hipbi/raw/main/servers/hipbi-1.21.4/fabricmods/required/gtnick-fabric-1.21.4-1.0.0.jar",
+            "MD5": "8dd031d38859511f77fd06c1532f905f"
+          }
+        },
+        {
           "id": "generated.fabricmod:iris:1.8.8+mc1.21.4@jar",
           "name": "Iris",
           "type": "FabricMod",
