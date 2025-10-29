@@ -192,7 +192,6 @@
           "artifact": {
             "size": 312,
             "url": "https://github.com/mchdistro/hipbi/raw/main/servers/dipplus-1.21.4/files/config/iris.properties",
-            "MD5": "9a115e985b98de0b5f666bc4c99f6693",
             "path": "config/iris.properties"
           }
         },
